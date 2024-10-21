@@ -6,7 +6,7 @@
 > Se quiser colaborar de qualquer forma, **entre na nossa comunidade** no [Discord](https://discord.gg/8pu9RgGBwn). 
 
 # 🙎 Desenvolvedores
-- (Sérgio Barros - Unity C# Developer)[https://github.com/Sergiobole/Sergio-Bole]
+- [Sérgio Barros - Unity C# Developer](https://github.com/Sergiobole/Sergio-Bole)
 - Rodrigo - Unity C# Developer
 
 ----
