@@ -1,13 +1,13 @@
 
-# 🎮 Jogo de Terror 3D - ScapeRoom 
+# 🎮 Game Plataforma 2D 
 
 > **Obs:** O projeto é para fins **didáticos**!  
 > Portanto, espere alguns bugs 😅... mas estou tentando dar o meu melhor!  
 > Se quiser colaborar de qualquer forma, **entre na nossa comunidade** no [Discord](https://discord.gg/8pu9RgGBwn). 
 
 # 🙎 Desenvolvedores
-- Sérgio Barros - Unity C# Developer
-
+- (Sérgio Barros - Unity C# Developer)[https://github.com/Sergiobole/Sergio-Bole]
+- Rodrigo - Unity C# Developer
 
 ----
 
